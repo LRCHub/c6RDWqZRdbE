@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "糸",
+  "base_artist": "Uru",
+  "createdAt": "2025-12-26T07:13:31.509324Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "糸",
+      "artist": "Bank Band",
+      "has_synced": true,
+      "path": "select/01_糸_Bank_Band.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "糸",
+      "artist": "Masaki Suda feat. Huwie Ishizaki",
+      "has_synced": true,
+      "path": "select/02_糸_Masaki_Suda_feat._Huwie_Ishizaki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "糸",
+      "artist": "Masaki Suda, Huwie Ishizaki",
+      "has_synced": true,
+      "path": "select/03_糸_Masaki_Suda,_Huwie_Ishizaki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "糸",
+      "artist": "ayaka",
+      "has_synced": false,
+      "path": "select/04_糸_ayaka.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "糸",
+      "artist": "絢香",
+      "has_synced": false,
+      "path": "select/05_糸_絢香.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "糸",
+      "artist": "Sukimaswitch",
+      "has_synced": false,
+      "path": "select/06_糸_Sukimaswitch.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "糸",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/07_糸_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "糸",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/08_糸_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "糸",
+      "artist": "つるの剛士",
+      "has_synced": false,
+      "path": "select/09_糸_つるの剛士.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "糸",
+      "artist": "Miyuki Nakajima",
+      "has_synced": true,
+      "path": "select/10_糸_Miyuki_Nakajima.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "糸",
+      "artist": "中島みゆき",
+      "has_synced": true,
+      "path": "select/11_糸_中島みゆき.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "糸",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/12_糸_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "糸",
+      "artist": "中島みゆき",
+      "has_synced": true,
+      "path": "select/13_糸_中島みゆき.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "糸",
+      "artist": "天童よしみ",
+      "has_synced": false,
+      "path": "select/14_糸_天童よしみ.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "糸",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/15_糸_花譜.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "糸 feat.安果音",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/16_糸_feat.安果音_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "糸 〜cruel spider〜",
+      "artist": "マチ(CV:前田玲奈)",
+      "has_synced": true,
+      "path": "select/17_糸_〜cruel_spider〜_マチ(CV_前田玲奈).lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "糸",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/18_糸_花譜.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "糸",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/19_糸_花譜.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "糸",
+      "artist": "Uru",
+      "has_synced": false,
+      "path": "select/pl_01_糸_Uru.txt"
+    }
+  ]
+}
